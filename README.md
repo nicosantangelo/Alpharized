@@ -3,7 +3,7 @@ Alpharized
 
 [Alpha](http://en.wikipedia.org/wiki/Alpha_Centauri)rized is oh-my-zsh theme optimized to work with [solarized](http://ethanschoonover.com/solarized) dark. It's a modified version of the [avit theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme).
 
-![screenshot](https://photos-4.dropbox.com/t/0/AADZ7UY7zmwd3LabR3LHChdttiVPSgGtmrlQX8m4hKtkxA/12/9909902/png/1024x768/3/1401159600/0/2/themescreen.png/hSpnCbGCo44yVy98IaXhGl3jHtXZaiHrrKNuGE5O43g)
+![screenshot](https://raw.githubusercontent.com/NicoSantangelo/Alpharized/master/themescreen.png)
 
 It uses the following symbols for git:
 
